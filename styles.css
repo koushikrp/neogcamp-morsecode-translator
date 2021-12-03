@@ -31,7 +31,7 @@ textarea {
 	cursor: pointer;
 }
 #btn-translate:active {
-	background-color: #fcd434;
+	background-color: #050400;
 	transform: translateY(3px);
 }
 #txt-output {
